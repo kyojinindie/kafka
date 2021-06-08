@@ -14,3 +14,5 @@ To get data into a kafka cluster, we have a thing called producer. A producer is
 ### Topic
 
 ### Partition
+
+### Record
