@@ -18,3 +18,12 @@ To get data into a kafka cluster, we have a thing called producer. A producer is
 ### Record
 
 ### Replication factor (Partitions)
+
+### Commands
+
+start-kafka
+
+```shell
+bin/zookeeper-server-start.sh config/zookeeper.properties
+bin/kafka-server-start.sh config/server.properties
+```
